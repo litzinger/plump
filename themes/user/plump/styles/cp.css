@@ -1,0 +1,6 @@
+.col-group,
+.nav-custom,
+.nav-main,
+.nav-global {
+    max-width: inherit;
+}
